@@ -3,3 +3,14 @@
 **/dist/
 
 **/node_modules/
+
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
